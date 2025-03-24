@@ -1,0 +1,83 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+body {
+    background-color: #F6D6D6;
+    text-decoration: none;
+}
+
+nav {
+    background-color: #F6F7C4;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    font-size: 24.5px;
+    align-items: center;
+}
+
+#a {
+    color: #FFA447;
+    text-decoration: none;
+    border-right: 1px solid #f3912e;
+    padding: 15px;
+    padding-top: 27px;
+    padding-bottom: 27px;
+    transition: opacity 0.3s ease-in-out;
+}
+
+#a:hover{
+    background-color: #f7f986;
+}
+
+#head {
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+    border-radius: 25px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+p {
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    position: relative;
+    bottom: 48.8%;
+    opacity:0;
+    cursor: pointer;
+    transition: opacity 0.3s ease-in-out;
+    background-color: rgb(172, 17, 17,0.1);
+    width: 399px; /* Adjust the width to match the image width */
+    height: 301px; /* Adjust the height to match the image height */
+    color: white; /* Add a contrasting text color for better visibility */
+    font-size: 16px; /* Adjust the font size as needed */
+    border-radius: 25px;
+    border: 1px solid #51909f;
+}
+
+
+
+p:hover  {  
+    align-items: center;
+    justify-content: center;
+    background-color: hsl(192, 73%, 70%,0.5);
+    text-align: center;
+    font-size: 100px;
+    opacity: 1;
+    color: white;
+}
+
+p:hover + img{
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}

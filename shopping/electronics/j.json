@@ -1,0 +1,185 @@
+{
+  "products": [
+    {
+    "id":1,
+    "name": "Apple ipad",
+    "price": 1780,
+    "img":"Apple.png",
+    "description":"Gorgeous 10.2-inch Retina display with True Tone. A13 Bionic chip with Neural Engine. 8MP Wide back camera, 12MP Ultra Wide front camera with Center Stage. Up to 256GB storage"
+  },
+
+  {
+    "id":2,
+    "name": "Apple 2022",
+    "price": 2198,
+    "img":"purple apple.jpg",
+    "description":" 10.9-inch Liquid Retina display with True Tone, P3 wide color, and an antireflective coating. Apple M1 chip with Neural Engine. 12MP Wide camera. 12MP Ultra Wide front camera with Center Stage. Up to 256GB of storage"
+  },
+
+  {
+    "id":3,
+    "name": "Android 12 Tab",
+    "price": 305,
+    "img":"Andriod.jpg",
+    "description":"【Tablet with 5G LTE】C idea tablet with 5G LTE cellular which you can download app,watch movie and have a video call anywhere at any time."
+  },
+
+  {
+    "id":4,
+    "name": "6th generation",
+    "price": 468,
+    "img":"ipad.jpg",
+    "description":"Includes: Pink Pop, Red Rush, Orange Rise, Yellow Twirl, Lime Light, Luscious Green, Teal Zeal, Bright Blue Bliss, Slate Blue Spin, Pure Blue Joy, Charming Purple, Wild Berry, Cocoa Delight and Jet Black gel pens"
+  },
+  {
+    "id":5,
+    "name": "HP Laptop",
+    "price": 1700,
+    "img":"hp.jpg",
+    "description":"Designed with the perfect balance of power and performance, the HP 15.6 Laptop PC is ready for streaming, connecting, and mastering your to-do lists. A powerful, sleek laptop for getting things done everyday"
+  },
+  {
+    "id":6,
+    "name": "Lenovo Thinkpad",
+    "price": 900,
+    "img":"lenovo.jpg",
+    "description":"✔️ 8GB RAM | 256GB Solid State Drive (SSD) | 13.3 inch Touchscreen 360° | Windows 10 Professional | (Memory (RAM) and/or Storage (HDD or SSD) upgradable if demanded. Please click on the seller’s name and send a message on Amazon or call their phone number)"
+  },
+  {
+    "id":7,
+    "name": "Dell",
+    "price": 400,
+    "img":"dell.jpg",
+    "description":"✔️ Renewed products have been professionally inspected and tested to work and look like new by an Amazon qualified and performance managed supplier. The inspection and testing process usually includes a full diagnostic test, replacement of any faulty parts, and a thorough cleaning." 
+  },
+  
+  {
+    "id":8,
+    "name": "Laptop/Tablet PC",
+    "price": 5049,
+    "img":"lap.jpg",
+    "description":"High quality long-lasting steel blade. -Perfect for school and college use"
+  },
+  
+  {
+    "id": 9,
+    "name": "SAMSUNG",
+    "price": 4000,
+    "img":"gal.jpg",
+    "description":"Unicorn pencil case - Double zip fastening with double compartment - Carry handle - Unicorn print - Size: 22 x 8 x 8 cm"
+  },
+
+  {
+    "id":10,
+    "name": "INFINIX Smart",
+    "price": 350,
+    "img":"INFINIX Smart.png",
+    "description":"Brand: Infinix. Display Size: 6.6 inches. Brand: Infinix " 
+  },
+  {
+    "id":11,
+    "name": "OPPO A78",
+    "price": 600,
+    "img":"mobile.jpg",
+    "description":"Brand Name : OPPO. 5000 mAh Long Lasting Battery. manufacturer : OPPO. Item model number : CPH2483" 
+  },
+  {
+    "id":12,
+    "name": "Apple iPhone",
+    "price": 3500,
+    "img":"pink.jpg",
+    "description":"VITAL SAFETY FEATURES — If you need emergency services and you don’t have mobile service or Wi-Fi, you can use Emergency SOS via satellite.4 With Crash Detection, iPhone can detect a serious car crash and call for help if you can’t." 
+  },
+  {
+    "id":13,
+    "name": "Headphone ",
+    "price": 330,
+    "img":"Headphone.jpg",
+    "description":"Designed to high standards. High quality studio microphone & pop filter. 5 levels of reverb. Multi-device compatibility. Automated noise cancellation. Auto pitch control. Earpad designed for maximum comfort" 
+  },
+  {
+    "id":14,
+    "name": "Sony Headphone ",
+    "price": 139,
+    "img":"Sony.jpg",
+    "description":"Stay powered up for days- With up to 50 hours of battery life, you can listen to your favourite music without worrying about running out of charge. And, if your headphones battery is running low, a three-minute quick-charge can give you 1.5 hours of listening time." 
+  },
+  {
+    "id":15,
+    "name": "pink Headphone ",
+    "price": 39,
+    "img":"pinkH.jpg",
+    "description":"Durability that stands up to everyday use. “Oops” proof materials are tested to protect these kids' headphones against 2 years of spills and accidents." 
+  },
+  {
+    "id":16,
+    "name": "Bluetooth Headphone",
+    "price": 629,
+    "img":"OpenFit.jpg",
+    "description":"Durability that stands up to everyday use. “Oops” proof materials are tested to protect these kids' headphones against 2 years of spills and accidents." 
+  },
+  {
+    "id":17,
+    "name": "iPad Pencil",
+    "price": 149,
+    "img":"pen.jpg",
+    "description":"If your ipad version does not support the magnetic charging of the pen, you can use the wireless charging compartment for charging" 
+  },
+  {
+    "id":18,
+    "name": "iafer Pencil",
+    "price": 80,
+    "img":"iafer Pencil.jpg",
+    "description":"💧Easy to use——No need to install Bluetooth or apps, just press the button to use this Pencil on ipad. It supports a lot of apps, such as onenote and goodnote for notes, and procreat, sketchbook for drawing" 
+  },
+  {
+    "id":19,
+    "name": "Easy and good",
+    "price": 29,
+    "img":"bestPen.jpg",
+    "description":"【Anti-Scratch Fiber Tip】- There is a fiber tip in the other end, which is made of soft, and scratch resistant rubber, especially great for tapping, coloring and scrolling, keep your touch screen devices away from fingerprints and smudge." 
+  },
+  {
+    "id":20,
+    "name": "Rubber pencil",
+    "price": 49,
+    "img":"rubber.jpg",
+    "description":"【Excellent Customer Service】:Your customer experience and satisfaction with our product are extremely important to us. If for any reason you have any issues, please reach out to us so we can solve them immediately." 
+  },
+  {
+    "id":20,
+    "name": "Rotatable Tv",
+    "price": 4900,
+    "img":"Rotatable.jpg",
+    "description":"Mult-angle adjustment at will: Adjustable viewing angle, landscape and portrait switch at will, equipped with wheels at the bottom." 
+  },
+  {
+    "id":22,
+    "name": "Samsung TV",
+    "price": 1609,
+    "img":"Samsung.jpg",
+    "description":"Virtual sound that tracks the action. A 3D surround sound with our virtual top channel audio will allow you to be fully immersed in the audio experience." 
+  },
+  {
+    "id":23,
+    "name": "Remote",
+    "price": 65,
+    "img":"Remote.jpg",
+    "description":"【100% customer satisfaction】We provide you with instructions or specific steps or other detailed solutions, If there is any programming issue with the remote and need help to setup, please contact us directly, we will try our best to solve it to your satisfaction." 
+  },
+  {
+    "id":24,
+    "name": "Touch Screen",
+    "price": 4900,
+    "img":"Rorate2.jpg",
+    "description":"High perfermance Android board: Built-in Android system, integreate a variety of applications" 
+  },
+  {
+    "id":25,
+    "name": "Camera",
+    "price": 38.5,
+    "img":"camera.jpg",
+    "description":"【Specially Upgraded Design for Children】Upgraded to dual-camera configuration, Easy to take selfies. Just open the switch key to enjoy the fun of taking photos. The cute cartoon silicone casing provides the kids camera with nti-drop design, allows kids to enjoy happy and freedom photography moments without worries of broken. The camera for kids also specially designed a durable lanyard for portability, children can hang the camera on their neck." 
+  }
+
+]}

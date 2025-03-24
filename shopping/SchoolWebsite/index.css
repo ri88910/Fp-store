@@ -1,0 +1,186 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #fae6f1;
+    
+}
+
+#cartAmount{
+    margin-left: 20px;
+}
+
+h2{
+    margin: 5px;
+}
+.nav{
+    background-color: #FBA1B7;
+    padding: 15px;
+}
+
+.all{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; 
+    font-size: 22px;
+    align-items: center;
+}
+
+.links{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+    color: whitesmoke;
+    border-right: 1px solid rgb(148, 8, 8);
+    padding: 7px;
+}
+a:hover{
+    background-color:#D63484 ;
+    padding-top: 31px;
+	padding-bottom: 31px;
+}
+
+.hover:hover{
+    background-color: #ef6bad;
+    padding-top: 10px;
+    padding-bottom: 0px;
+}
+
+#shop {
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: repeat(4, 230px);
+    gap: 60px;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.item {
+    background-color: #FFF0F5;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 4px;
+    width: 260px;
+    padding: 10px;
+    text-align: center;
+}
+
+.name {
+    text-align: left;
+    color: #D63484;
+    margin-bottom: 20px;
+    
+}
+
+.price{
+    color: #402B3A;
+}
+
+.description{
+    color: #FF9BD2;
+    max-height: 56px;
+    -webkit-line-clamp: 3;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+}
+
+.images{
+    display: inline-block;
+    position: relative;
+    overflow: hidden; 
+}
+
+.img {
+    width: 220px;
+    height: 220px;
+    transition: filter 0.3s ease;
+    transition: transform 0.5s ease;
+}
+
+.img:hover{
+    overflow: hidden;
+    cursor: pointer;
+    filter: brightness(0.5);
+    transform: scale(1.6) skew(-18deg);
+}
+
+span{
+    color: #D63484;;
+}
+
+.buttons{
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    margin-top: 20px;
+    background-color: #FF9BD2;
+    padding: 2px;
+    width: 70px;
+    border: 1px solid black;
+}
+
+.plus{
+    color:greenyellow;
+    cursor: pointer;
+}
+
+.quantity{
+    color:azure;
+    padding-left: 5px;
+    padding-right: 5px;
+    cursor: pointer;
+    
+}
+
+.minus{
+    color:black;
+    cursor: pointer;
+}
+
+.fa-solid{
+    font-size: 30px;
+}
+
+.main{
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+}
+
+::selection{
+    background-color: black;
+    color: brown;
+}
+
+#id{
+    background-color: aqua;
+}
+
+@media only screen and (max-width: 1000px) {
+    #shop {
+        display: grid;
+        grid-template-columns: repeat(3, 150px);
+        gap: 150px;
+    }
+
+    nav{
+        width: 100%;
+    }
+
+    .all{
+        display: flex;
+        flex-direction: column;
+    }
+
+    a:hover{
+        padding: 10px;
+    }
+}

@@ -1,0 +1,71 @@
+{
+  "products": [
+    {
+    "id":1,
+    "name": "Rings",
+    "price": 20,
+    "img":"ring.jpg",
+    "description":"🌸It's A Great Gift-- Rings packed in pink gift box, can be applied for birthday parties, gift bag fillers, party favors, party bags and seasonal events like Halloween, Christmas, dinosaur party decorations, goodie bags, girls party supplies."
+  },
+
+  {
+    "id":2,
+    "name": "Jewelry Rings Set",
+    "price": 23,
+    "img":"ring2.jpg",
+    "description":"Designs of 36 kids play rings that will make your daughters mesmerized. Usage of vibrant colors and lovely designs, shown as picture."
+  },
+
+  {
+    "id":3,
+    "name": " Hair Band Set",
+    "price": 50,
+    "img":"box.png.jpg",
+    "description":"144pcs(1box) Girls Sweet Hairpin And Hair Band Set, Rabbit Bear Bowknot Hair Accessories Sets"
+  },
+
+  {
+    "id":4,
+    "name": "Generic Babywearoutlet",
+    "price": 35,
+    "img":"bag.png",
+    "description":"Reduce storage trouble. there are three layers and multiple compartments, which can be classified and stored; the transparent and thick cover not only protects against dust, bust also makes finding items easy and simple; with handle, easy to carry"
+  },
+  {
+    "id":5,
+    "name": "bag of accessories",
+    "price": 40,
+    "img":"ac.png.jpg",
+    "description":"Rich and brilliant colours, fade resistant, excellent coverage"
+  },
+  {
+    "id":6,
+    "name": "Children Beads",
+    "price": 37,
+    "img":"2.jpg",
+    "description":"can help children away from video games, improve creativity, attention, hand and eye coordination ability, color collocation, build friendship, relieve stress. It can also be used to create a warm parent-child time"
+  },
+  {
+    "id":7,
+    "name": "Cute Starfish",
+    "price": 5,
+    "img":"sea.png",
+    "description":"DESIGN: Fashion 925 Sterling Silver Chain Starfish Star shaped Zirconia Pendant Necklace. High quality Sterling Silver Chain Jewelry will always be sparkly, it can keep for a long time. COMFORTABLE TO WEAR." 
+  },
+  
+  {
+    "id":8,
+    "name": "Heart-shaped ",
+    "price": 6.5,
+    "img":"7.webp",
+    "description":"Size: The size of pendant is 2 cm (0.8 inch) in diameter. The length each bracelet is adjustable between 19cm - 22.5 cm (7.4 inch - 8.8 inch)"
+  },
+  
+  {
+    "id": 9,
+    "name": "Cute Panda",
+    "price": 7,
+    "img":"panda.jpg",
+    "description":"Magnetic BFF Necklaces: With a small magnet in the middle, it can hold two necklaces together which symbolizes 2 best friends who are always together."
+  }
+]}

@@ -1,0 +1,217 @@
+/**
+* ! Changing default styles of the browser
+**/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body{
+    background-color: #FFE2E2;
+    
+}
+  
+  i {
+    cursor: pointer;
+  }
+  
+  a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+  }
+  
+  /**
+  * ! Navbar STyles are here
+  **/
+
+  #number {
+    position: absolute;
+    top: 2px;
+    right: 1px;
+    font-size: 16px;
+    background-color: white;
+    color: black;
+    padding: 3px;
+    border-radius: 3px;
+  }
+  
+  .cart {
+
+    color: #212529;
+    font-size: 30px;
+    padding: 5px;
+    border-radius: 4px;
+  }
+  
+  
+  *{
+    margin:  0;
+    padding: 0;
+}
+.first{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    align-items: center;
+}
+
+a{
+    text-decoration: none; 
+}
+
+nav{
+  background-color: #BAD7DF;
+  padding: 15px;
+}
+
+h1{
+    padding-left: 10px;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+span{
+    color: red;
+}
+
+.fa-cart-shopping{
+    padding-right: 10px;
+    color: black;
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px; 
+}
+
+#cartAmount{
+  margin-left: 20px;
+  color: white;
+}
+
+h2{
+  margin: 5px;
+  color: white;
+}
+
+#write{
+  font-size: 34px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color:#da5999;
+}
+
+.enter{
+  display: flex;
+  justify-content: center;
+}
+
+#check{
+  background-color: rgb(6, 148, 6);
+  padding: 10px;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#check:hover{
+  background-color: rgb(2, 96, 2);
+}
+
+#clear{
+  background-color: red;
+  padding: 10px;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#clear:hover{
+  background-color: rgba(159, 0, 0);
+}
+
+::selection{
+  color: pink;
+  background-color: #212529;
+}
+
+#div{
+  margin-top: 20px;
+  display: flex;
+  gap: 20px;
+  display: inline;
+}
+
+.cart-item{
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+#theName{
+  font-size: 20px;
+  color: palevioletred;
+}
+
+.inside{
+  display: flex;
+  flex-direction: row;
+  background-color: #F6F6F6;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding: 10px;
+  width: 400px;
+  border-radius: 10px;
+}
+
+img{
+  width: 100px;
+  height: 120px;
+  padding-right: 10px;
+}
+
+.buttons{
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  font-size: 16px;
+  padding: 10px;
+}
+
+
+.fa-minus{
+  color: red;
+}
+
+.fa-plus{
+  color: green;
+}
+
+
+.HomeBtn{
+  margin-top: 10px;
+  background-color: #fbe8e8;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  border-radius: 6px;
+  color: #da80ad;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.HomeBtn:hover{
+  background-color: #f5d6d6;
+}
+
+#marks{
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  gap: 10px;
+}
+
+.fa-xmark {
+  color: red;
+  font-weight: bold;
+  margin-left: 210px;
+}

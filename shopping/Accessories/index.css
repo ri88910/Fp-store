@@ -1,0 +1,174 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #DCBFFF;
+    
+}
+
+.nav{
+    background-color:#D0A2F7;
+    padding: 15px;
+}
+
+.all{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; 
+    font-size: 22px;
+    align-items: center;
+}
+
+.links{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+    color: whitesmoke;
+    border-right: 1px solid rgb(148, 8, 106);
+}
+a:hover{
+    background-color:rgb(138, 6, 145) ;
+    padding-top: 31px;
+	padding-bottom: 31px;
+}
+
+.hover:hover{
+    background-color: rgb(200, 0, 255);
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+#shop {
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: repeat(3, 230px);
+    gap: 50px;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.item {
+    background-color: #E5D4FF;
+    border-radius: 4px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 260px;
+    padding: 5px;
+    text-align: center;
+}
+
+.name {
+    text-align: left;
+    color: #864AF9;
+    margin-bottom: 20px;
+}
+
+.price{
+    color: #864AF9;
+}
+
+.description{
+    color: #6962AD;
+}
+
+.images{
+    display: inline-block;
+    position: relative;
+    overflow: hidden; 
+}
+
+.img {
+    width: 220px;
+    height: 220px;
+    transition: filter 0.3s ease;
+    transition: transform 0.5s ease;
+}
+
+.img:hover{
+    overflow: hidden;
+    cursor: pointer;
+    filter: brightness(0.5);
+    transform: scale(1.6) skew(-18deg);
+}
+
+span{
+    color:#6C22A6;
+}
+
+.buttons{
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    margin-top: 20px;
+    background-color: rgb(206, 57, 239);
+    padding: 2px;
+    width: 70px;
+    border: 1px solid black;
+}
+
+.plus{
+    color:greenyellow;
+    cursor: pointer;
+}
+
+.quantity{
+    color:azure;
+    padding-left: 5px;
+    padding-right: 5px;
+    cursor: pointer;
+    
+}
+
+.minus{
+    color:black;
+    cursor: pointer;
+}
+
+.fa-solid{
+    font-size: 30px;
+}
+
+.main{
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+}
+
+::selection{
+    background-color: black;
+    color: rgb(208, 11, 211);
+}
+
+#cartAmount{
+    margin-left: 13px;
+}
+
+#id{
+    background-color: aqua;
+}
+
+@media only screen and (max-width: 1000px) {
+    #shop {
+        display: grid;
+        grid-template-columns: repeat(2, 150px);
+        gap: 160px;
+    }
+
+    .all{
+        display: flex;
+        flex-direction: column;
+    }
+
+
+    .hover:hover{
+        padding-top: 10px;
+        padding-bottom: 0;
+    }
+}

@@ -1,0 +1,150 @@
+{
+  "products": [
+    {
+    "id":1,
+    "name": "UnderArmor",
+    "price": 60,
+    "img":"UnderArmor.png",
+    "description":"Super-soft, cotton-blend fabric provides all-day comfort Material wicks sweat & dries really fastRibbed cllar"
+  },
+
+  {
+    "id":2,
+    "name": "Summer clothes",
+    "price": 50,
+    "img":"men.png",
+    "description":"Features: 2 piece sets, tropical print, round neck, short sleeve, drawstring waist, track shorts, coconut tree print tee"
+  },
+
+  {
+    "id":3,
+    "name": "GORGLITTER",
+    "price": 48,
+    "img":"summer.png",
+    "description":"Garment Care: Regular Wash/ Recommend with Cold Water/ Do not Use Bleach/ Do not Tumble Dry"
+  },
+
+  {
+    "id":4,
+    "name": "Shirt",
+    "price": 70,
+    "img":"T-shirt.png",
+    "description":"Fabric: nice skin touch fabric, slight stretch, soft and comfortable daily wear Features: button down, short sleeve, collared, striped shirt, drawstring waist shorts set"
+  },
+  {
+    "id":5,
+    "name": "Half Sleeve Round",
+    "price": 30,
+    "img":"sh.jpg",
+    "description":"Occasion: daily wear, casual, work, office, beach, leisure, weekend, outgoing, streetwear Please refer to Size Chart in Product Description as below"
+  },
+  {
+    "id":6,
+    "name": "Pant",
+    "price": 27,
+    "img":"pant.png",
+    "description":"STRAIGHT FIT. With a straight fit through the hip and thigh, these khaki pants sit at the natural waist with a flex waistband for comfort. These straight fit pants provides a tailored look that keeps you comfortable all day long."
+  },
+  {
+    "id":7,
+    "name": "Glasses",
+    "price": 30,
+    "img":"glasses.jpg",
+    "description":"👓【HIGH DEFINITION POLARIZED LENS】The high definition polarized lenses of pilot’s glasses can reduce glare reflected off of roads, bodies of water, snow, and other horizontal surfaces. polarized sunglasses can restore true color, with no distortion or deformation of color saturated images. And if you experience headaches due to light sensitivity, polarized sunglasses may help you experience less intense headaches. always protect your eyes perfectly" 
+  },
+  
+  {
+    "id":8,
+    "name": "Fashion glasses",
+    "price": 80,
+    "img":"fashion.jpg",
+    "description":"MODERN DESIGNER SUNGLASSES-These fashion square sunglasses are made for women who pursue fashion and express their individualities.Starting with the bold face front surrounding slightly oversized Square lenses. — so go wild and let your personal style shine!"
+  },
+  
+  {
+    "id": 9,
+    "name": "Blue suit",
+    "price": 300,
+    "img":"blueSuit.png",
+    "description":"SIZE -- XS≈36R, S≈38R, M≈40R, L≈42R, XL≈44R, XXL≈46R. Please check the SIZE TABLE carefully to avoid a waste of time and money on returns. If you are not sure, we strongly suggest you inquire about size first. You can tell us your height, weight, chest circumference, and waist circumference and we will suggest the best size for you."
+  },
+
+  {
+    "id":10,
+    "name": "Beige suit",
+    "price": 400,
+    "img":"BeigeSuit.jpg",
+    "description":"Multifunctional: Our suits are suitable for multiple occasions, such as weddings, business meetings, graduation ceremonies, fashion shows, parties, grand holidays, or just daily use. " 
+  },
+  {
+    "id":11,
+    "name": "Gray suit",
+    "price": 300,
+    "img":"graySuit.jpg",
+    "description":"High Standard Material and Careful Craftmanship: MYS understands that upscale material and careful craftmanship are the two most important things to a tuxedo. That's why we are having the most experienced tailors to handmake these tuxedos with the superior fabric and material. From head to toe, you will find these suits are exactly the same quality as our pictures." 
+  },
+  {
+    "id":12,
+    "name": "Blue cap",
+    "price": 50,
+    "img":"blueCap.png",
+    "description":"Lyle & Scott Classic Cap with top stitch detail on the peak. Featuring 4-panel construction and adjustable velcro back fastening. Tapped interior seams are made from 100% cotton canvas. Finished with the signature embroidered golden eagle." 
+  },
+  {
+    "id":13,
+    "name": "Black cap",
+    "price": 25,
+    "img":"blackCap.jpg",
+    "description":"Our cap is designed with 3D tailoring, ensuring a stylish fit. The head button decoration adds a touch of flair, and the perfect curvature of the brim, along with strict stitching technology, exemplifies our commitment to quality." 
+  },
+  {
+    "id":14,
+    "name": "Socks",
+    "price": 40,
+    "img":"socks.jpg",
+    "description":"SWEAT BANDS runs along the internal structure of the foot area to ensure superior most sweat-absorption. TARGETED REINFORCEMENT in heel & toe padded with thicker yarn gives superior support & cushioning in key areas while protecting the fabric of the sock from wear and tear and therefore enhances durability of the socks." 
+  },
+  {
+    "id":15,
+    "name": "Socks",
+    "price": 40,
+    "img":"socks2.jpg",
+    "description":"ULTRA SOFT ECO TOUCH FABRIC: Knitted from a proprietary blend of natural fibres and elastic yarn to give you maximum comfort during intense athletic activity as well as all day casual use. Crafted from one of the softest natural fibres available on the planet, BAMBOS socks are not only super soft but are also skin" 
+  },
+  {
+    "id":16,
+    "name": "Green hoodie",
+    "price": 60,
+    "img":"greenHoodie.jpg",
+    "description":"Made to last double-needle stitching at shoulders, armholes, neck, waistband, and cuffs." 
+  },
+  {
+    "id":17,
+    "name": "Orange hoodie",
+    "price": 40,
+    "img":"orange hoodie.jpg",
+    "description":"Brushed interior provides superior cozy softness. Double-lined hood for additional warmth with color matched draw cord" 
+  },
+  {
+    "id":18,
+    "name": "Black polo shirt",
+    "price": 70,
+    "img":"poloShirt.jpg",
+    "description":"Smooth, soft anti-pick, anti-pill fabric has a textured snag-free finish 4-way stretch material moves better in every direction Material wicks sweat & dries really fast Anti-odor technology prevents the growth of odor-causing microbes UPF 50+ protects your skin from the sun's harmful rays Ribbed knit collar & 2-button placket Style #: 1377346 94% Polyester/6% Elastane Imported" 
+  },
+  {
+    "id":19,
+    "name": "Blue polo shirt",
+    "price": 90,
+    "img":"poloShirt2.jpg",
+    "description":"protects your skin from the sun's harmful rays Ribbed knit collar & 2-button placket Style #: 1377346 94% Polyester/6% Elastane Imported" 
+  },
+  {
+    "id":20,
+    "name": "gray polo shirt",
+    "price": 60,
+    "img":"grayPolo.jpg",
+    "description":"Brand: American Eagle. AMERICAN EAGLE Men's Polo Shirt XS HEATHER GRAY. Country of origin:VIETNAM. Size:XS. color:GREY" 
+  }
+
+]}

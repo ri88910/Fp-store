@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+    "id":1,
+    "name": "Purple hoodie",
+    "price": 20,
+    "img":"hody.jpg",
+    "description":"Long sleeve sweatshirts are made of soft, lightweight and skin-friendly material, which can provide you with comfy and cozy weairng experience."
+  },
+
+  {
+    "id":2,
+    "name": "Pink hoodie",
+    "price": 20,
+    "img":"hodie 2.jpg",
+    "description":" Soft and comfortable sweatshirt fabric. Our sweatshirt is lightweight, soft and breathable. Suitable for spring, fall and winter that is warm and cozy."
+  },
+
+  {
+    "id":3,
+    "name": "Blue  veil",
+    "price": 7,
+    "img":"blue hegab.jpg",
+    "description":"Save Time And Money: This assorted color straight edge ruler set included 30 rulers in 6 colors, saving you the time of choosing rulers of various colors. A quantity of 30 is more cost-effective than buying individually."
+  },
+
+  {
+    "id":4,
+    "name": " veils",
+    "price": 13,
+    "img":"طرحة.png",
+    "description":"Includes: Pink Pop, Red Rush, Orange Rise, Yellow Twirl, Lime Light, Luscious Green, Teal Zeal, Bright Blue Bliss, Slate Blue Spin, Pure Blue Joy, Charming Purple, Wild Berry, Cocoa Delight and Jet Black gel pens"
+  },
+  {
+    "id":5,
+    "name": "Scirt",
+    "price": 23,
+    "img":"scirt 1.png",
+    "description":"Women's Swing Work Skirts Long Skirt Floor Length Polyester Cotton Blend blue Skirts Fall & Winter Pocket Print Linedless High Waist Basic Long Office / Career Casual / Daily M L XL"
+  },
+  {
+    "id":6,
+    "name": "Black scirt",
+    "price": 27,
+    "img":"k.png",
+    "description":"Women's Swing Work Skirts Long Skirt Floor Length Polyester Cotton Blend blue Skirts Fall & Winter Pocket Print Linedless High Waist Basic Long Office / Career Casual / Daily M L XL"
+  },
+  {
+    "id":7,
+    "name": "Brown scirt",
+    "price": 30,
+    "img":"scirt 2.png",
+    "description":"Women's Swing Work Skirts Long Skirt Floor Length Polyester Cotton Blend blue Skirts Fall & Winter Pocket Print Linedless High Waist Basic Long Office / Career Casual / Daily M L XL " 
+  },
+  
+  {
+    "id":8,
+    "name": "Blue pant",
+    "price": 37,
+    "img":"pant1.png",
+    "description":"High quality long-lasting steel blade. -Perfect for school and college use"
+  },
+  
+  {
+    "id": 9,
+    "name": "red for women",
+    "price": 10,
+    "img":"قميص.png",
+    "description":"Unicorn pencil case - Double zip fastening with double compartment - Carry handle - Unicorn print - Size: 22 x 8 x 8 cm"
+  },
+
+  {
+    "id":10,
+    "name": "Black and white",
+    "price": 25,
+    "img":"t-shirt1.png",
+    "description":"Material: Polyester, Polyster -Closure Type: Zipper Closure -Gender: GIRLS " 
+  },
+  {
+    "id":11,
+    "name": "white for women",
+    "price": 20,
+    "img":"t-shirt2.png",
+    "description":"🌺 GREAT QUALITY --- Durable and strong zippers, easy to open and close zipper tags.Soft and steady fabric, reinforced straps, easy to adjust the length, relieve stress on your neck and shoulders,definitely can last a year and more. " 
+  },
+  {
+    "id":12,
+    "name": "Fancy dress",
+    "price": 60,
+    "img":"ress.png",
+    "description":"Printed to add appeal, this five-in-one gift set comes with a trolley backpack, lunch bag, sandwich box, pencil case and water bottle. Perfect for gifting a kid, it is sure to be appreciated." 
+  }
+
+]}

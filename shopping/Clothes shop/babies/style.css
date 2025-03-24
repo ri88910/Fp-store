@@ -1,0 +1,168 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #F6FDC3;
+    
+}
+
+#cartAmount{
+    margin-left: 20px;
+}
+
+h2{
+    margin: 5px;
+}
+.nav{
+    background-color: #CDFADB;
+    padding: 15px;
+}
+
+.all{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; 
+    font-size: 22px;
+    align-items: center;
+}
+
+.links{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+    color: whitesmoke;
+    border-right: 1px solid #209b47;
+    padding: 7px;
+    color: black;
+}
+a:hover{
+    background-color:#a5f3be;
+    padding-top: 35px;
+	padding-bottom: 35px;
+}
+
+.hover:hover{
+    background-color:#ad8f3c ;
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
+
+#shop {
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: repeat(4, 230px);
+    gap: 60px;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.item {
+    background-color: #FFCF96;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 4px;
+    width: 260px;
+    padding: 10px;
+    text-align: center;
+}
+
+.name {
+    text-align: left;
+    color: #FF8080;
+    margin-bottom: 20px;
+    
+}
+
+.price{
+    color: white;
+}
+
+.description{
+    color: #FF8080;
+    max-height: 56px;
+    -webkit-line-clamp: 3;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+}
+
+.images{
+    display: inline-block;
+    position: relative;
+    overflow: hidden; 
+}
+
+.img {
+    width: 250px;
+    height: 270px;
+    transition: filter 0.3s ease;
+    transition: transform 0.5s ease;
+}
+
+.img:hover{
+    overflow: hidden;
+    cursor: pointer;
+    filter: brightness(0.5);
+    transform: scale(1.6) skew(-18deg);
+}
+
+span{
+    color: #1b0448;;
+}
+
+.buttons{
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    margin-top: 20px;
+    background-color: #F57D1F;
+    padding: 5px;
+    width: 70px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.plus{
+    color:greenyellow;
+    cursor: pointer;
+}
+
+.quantity{
+    color:azure;
+    padding-left: 5px;
+    padding-right: 5px;
+    cursor: pointer;
+    
+}
+
+.minus{
+    color:black;
+    cursor: pointer;
+}
+
+.fa-solid{
+    font-size: 40px;
+    color: black;
+}
+
+.main{
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+}
+
+::selection{
+    background-color: black;
+    color: brown;
+}
+
+#id{
+    background-color: aqua;
+}

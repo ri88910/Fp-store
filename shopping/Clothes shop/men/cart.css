@@ -1,0 +1,201 @@
+/**
+* ! Changing default styles of the browser
+**/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body{
+    background-color: #FFF3CF;
+    
+}
+  
+  i {
+    cursor: pointer;
+  }
+  
+  a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+  }
+  
+  /**
+  * ! Navbar STyles are here
+  **/
+
+  #number {
+    position: absolute;
+    top: 2px;
+    right: 1px;
+    font-size: 16px;
+    background-color: white;
+    color: black;
+    padding: 3px;
+    border-radius: 3px;
+  }
+  
+  .cart {
+
+    color: #212529;
+    font-size: 30px;
+    padding: 5px;
+    border-radius: 4px;
+  }
+  
+  
+  *{
+    margin:  0;
+    padding: 0;
+}
+.first{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    align-items: center;
+}
+
+a{
+    text-decoration: none; 
+}
+
+nav{
+  background-color: #E8C872;
+    padding: 15px;
+}
+
+h1{
+    padding-left: 10px;
+    font-size: 30px;
+    color: black;
+    text-decoration: none;
+}
+
+span{
+    color: red;
+}
+
+.fa-cart-shopping{
+    padding-right: 10px;
+    color: black;
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px; 
+}
+
+#write{
+  font-size: 34px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.enter{
+  display: flex;
+  justify-content: center;
+}
+
+#check{
+  background-color: rgb(6, 148, 6);
+  padding: 10px;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#check:hover{
+  background-color: rgb(2, 96, 2);
+}
+
+#clear{
+  background-color: red;
+  padding: 10px;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#clear:hover{
+  background-color: rgba(159, 0, 0);
+}
+
+::selection{
+  color: pink;
+  background-color: #212529;
+}
+
+#div{
+  margin-top: 20px;
+  display: flex;
+  gap: 20px;
+  display: inline;
+}
+
+.cart-item{
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+#theName{
+  color: #637A9F;
+  font-size: 20px;
+}
+
+.inside{
+  display: flex;
+  flex-direction: row;
+  border: 1px solid #79929d;
+  padding: 10px;
+  width: 400px;
+  background-color: #C9D7DD;
+  border-radius: 10px;
+}
+
+img{
+  width: 150px;
+  height: 120px;
+  padding-right: 10px;
+}
+
+.buttons{
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  font-size: 16px;
+  padding: 10px;
+}
+
+
+.fa-minus{
+  color: red;
+}
+
+.fa-plus{
+  color: green;
+}
+
+
+.HomeBtn{
+  margin-top: 10px;
+  background-color: #C9D7DD;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  border-radius: 6px;
+  color: #637A9F;
+}
+
+#marks{
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  gap: 10px;
+}
+
+.fa-xmark {
+  color: red;
+  font-weight: bold;
+  margin-left: 210px;
+}

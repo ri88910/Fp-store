@@ -1,0 +1,76 @@
+*{
+    background-color: rgb(237, 240, 241);
+    padding: 0;
+    margin: 0;
+}
+
+
+.parent{
+    display: flex;
+    justify-content: center;
+}
+
+form{
+    text-align: center;
+    width: 42%;
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
+
+.enter{
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    border-radius: 7px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+
+#email {
+    margin-top: 100px;
+    padding: 10px;
+    font-size: 15px;
+    background-color: white;
+    border-radius: 7px;
+    border: 1px solid gray;
+}
+
+#goha2{
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 15px;
+    background-color: white;
+    border-radius: 7px;
+    border: 1px solid gray;
+}
+
+.button{
+    margin-top: 20px;
+    background-color: rgb(255, 30, 0);
+    color: white;
+    padding: 10px;
+    border-radius: 7px;
+    border: none;
+}
+
+
+#email:active{
+    border: none;
+    border: 2px solid red;
+}
+
+#problem{
+    color: red;
+    background-color: white;
+}
+
+.valid {
+    border: 2px solid green;
+}
+.invalid {
+    border: 2px solid red;
+}
+
