@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-image: radial-gradient(#e6ebef, #1c87c9, #8ebf42);
+}
+
+.intro{
+    display:flex;
+    justify-content: center;
+}
+
+.parent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hello{
+    color: red;
+    font-size: 60px;
+}
+
+.fa-heart{
+    color: red;
+    font-size: 100px;
+}
